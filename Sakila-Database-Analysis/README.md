@@ -44,12 +44,6 @@ I also practised creating a database, inserting records, modifying a table and d
 - MySQL
 - MySQL Workbench
 
-## Project Files
-
-- `SQL/Sakila_SQL_Queries.sql` – SQL queries with comments.
-- `Documentation/SQL_Assignment.pdf` – Original assignment document.
-- `Screenshots/` – Query execution results.
-
 ## What I Practised
 
 Through this assignment, I practised retrieving and combining data from multiple tables, applying aggregate functions and writing conditional queries to answer different database questions.
